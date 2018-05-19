@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 0f50a0539868fae46a9a1d945b6cabdb
+timeCreated: 1497443849
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boole
+    100002: Boole_2
+    100004: Box
+    100006: Box_2
+    100008: Camera
+    100010: Connector
+    100012: ConnectorOnDoor
+    100014: Cube.001
+    100016: Cube_2
+    100018: Cube_3
+    100020: Door
+    100022: Door_1
+    100024: //RootNode
+    100026: Edges_1
+    100028: Empty
+    100030: Lamp
+    100032: Lock
+    100034: Null
+    100036: Null_1
+    100038: Null_2
+    100040: Null_2_2
+    100042: Rounding_1_1
+    100044: Sweep
+    400000: Boole
+    400002: Boole_2
+    400004: Box
+    400006: Box_2
+    400008: Camera
+    400010: Connector
+    400012: ConnectorOnDoor
+    400014: Cube.001
+    400016: Cube_2
+    400018: Cube_3
+    400020: Door
+    400022: Door_1
+    400024: //RootNode
+    400026: Edges_1
+    400028: Empty
+    400030: Lamp
+    400032: Lock
+    400034: Null
+    400036: Null_1
+    400038: Null_2
+    400040: Null_2_2
+    400042: Rounding_1_1
+    400044: Sweep
+    2300000: Box
+    2300002: Box_2
+    2300004: Connector
+    2300006: ConnectorOnDoor
+    2300008: Cube.001
+    2300010: Cube_2
+    2300012: Cube_3
+    2300014: Door
+    2300016: Door_1
+    2300018: Edges_1
+    2300020: Rounding_1_1
+    2300022: Sweep
+    3300000: Box
+    3300002: Box_2
+    3300004: Connector
+    3300006: ConnectorOnDoor
+    3300008: Cube.001
+    3300010: Cube_2
+    3300012: Cube_3
+    3300014: Door
+    3300016: Door_1
+    3300018: Edges_1
+    3300020: Rounding_1_1
+    3300022: Sweep
+    4300000: Cube_3
+    4300002: Edges_1
+    4300004: Door
+    4300006: ConnectorOnDoor
+    4300008: Box_2
+    4300010: Cube_2
+    4300012: Door_1
+    4300014: Connector
+    4300016: Box
+    4300018: Cube.001
+    4300020: Rounding_1_1
+    4300022: Sweep
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Concrete
+  - MetalPlate
+  - InteractItem
+  - Item
+  - Interact
+  - InteractNote
+  - ItemIcon
+  - Slot
+  - DraggingItem
+  - MainInventory
+  - Canvas
+  - Slots
+  - Panel
+  - Crowbar
+  - Fire
+  - Key
+  - Door
+  - DraggableDoor
+  - Tooltip
+  - EquipmentSystem
+  - Valve
+  - Melee
+  - ElevatorUp
+  - ElevatorDown
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Imposter
+  - Interact
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - HLOD
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

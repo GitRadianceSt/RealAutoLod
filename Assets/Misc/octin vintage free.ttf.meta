@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 09a3267d89f7e70469545b4044540f30
+timeCreated: 1505146363
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Octin Vintage Free
+  fontNames:
+  - Octin Vintage Free
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

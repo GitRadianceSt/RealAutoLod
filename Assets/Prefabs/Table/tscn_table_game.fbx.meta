@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 9c0dfc6d3d6e899419bff27645980085
+timeCreated: 1500132742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: DiagonalBracing.000
+    100002: EndBrace.000
+    100004: EndFrames.000
+    100006: EndFrames.001
+    100008: Legs.000
+    100010: Legs.001
+    100012: Peg.000
+    100014: Plane
+    100016: Plane.002
+    100018: Plane.003
+    100020: SideFrames.000
+    100022: SideFrames.001
+    100024: Stringer.000
+    100026: TopEndPlanks.000
+    100028: TopEndPlanks.001
+    100030: TopPlank.003
+    100032: TopPlanks.000
+    100034: TopPlanks.001
+    100036: TopPlanks.002
+    100038: TopPlanks.003
+    100040: TopPlanks.004
+    100042: TopPlanks.005
+    100044: //RootNode
+    400000: DiagonalBracing.000
+    400002: EndBrace.000
+    400004: EndFrames.000
+    400006: EndFrames.001
+    400008: Legs.000
+    400010: Legs.001
+    400012: Peg.000
+    400014: Plane
+    400016: Plane.002
+    400018: Plane.003
+    400020: SideFrames.000
+    400022: SideFrames.001
+    400024: Stringer.000
+    400026: TopEndPlanks.000
+    400028: TopEndPlanks.001
+    400030: TopPlank.003
+    400032: TopPlanks.000
+    400034: TopPlanks.001
+    400036: TopPlanks.002
+    400038: TopPlanks.003
+    400040: TopPlanks.004
+    400042: TopPlanks.005
+    400044: //RootNode
+    2300000: DiagonalBracing.000
+    2300002: EndBrace.000
+    2300004: EndFrames.000
+    2300006: EndFrames.001
+    2300008: Legs.000
+    2300010: Legs.001
+    2300012: Peg.000
+    2300014: Plane
+    2300016: Plane.002
+    2300018: Plane.003
+    2300020: SideFrames.000
+    2300022: SideFrames.001
+    2300024: Stringer.000
+    2300026: TopEndPlanks.000
+    2300028: TopEndPlanks.001
+    2300030: TopPlank.003
+    2300032: TopPlanks.000
+    2300034: TopPlanks.001
+    2300036: TopPlanks.002
+    2300038: TopPlanks.003
+    2300040: TopPlanks.004
+    2300042: TopPlanks.005
+    3300000: DiagonalBracing.000
+    3300002: EndBrace.000
+    3300004: EndFrames.000
+    3300006: EndFrames.001
+    3300008: Legs.000
+    3300010: Legs.001
+    3300012: Peg.000
+    3300014: Plane
+    3300016: Plane.002
+    3300018: Plane.003
+    3300020: SideFrames.000
+    3300022: SideFrames.001
+    3300024: Stringer.000
+    3300026: TopEndPlanks.000
+    3300028: TopEndPlanks.001
+    3300030: TopPlank.003
+    3300032: TopPlanks.000
+    3300034: TopPlanks.001
+    3300036: TopPlanks.002
+    3300038: TopPlanks.003
+    3300040: TopPlanks.004
+    3300042: TopPlanks.005
+    4300000: TopEndPlanks.001
+    4300002: DiagonalBracing.000
+    4300004: EndBrace.000
+    4300006: SideFrames.001
+    4300008: TopPlanks.005
+    4300010: TopPlanks.003
+    4300012: TopPlanks.004
+    4300014: EndFrames.001
+    4300016: TopEndPlanks.000
+    4300018: TopPlank.003
+    4300020: TopPlanks.002
+    4300022: TopPlanks.001
+    4300024: SideFrames.000
+    4300026: EndFrames.000
+    4300028: Peg.000
+    4300030: Legs.001
+    4300032: Legs.000
+    4300034: Stringer.000
+    4300036: TopPlanks.000
+    4300038: Plane.003
+    4300040: Plane.002
+    4300042: Plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
